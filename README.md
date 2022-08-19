@@ -1,4 +1,4 @@
-## Olá! Eu sou a Gabriel.❤
+## Olá! Eu sou a Gabriel.
 
 
 ### Tecnologias que eu utilizo:
